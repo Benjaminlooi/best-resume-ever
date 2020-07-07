@@ -3,8 +3,8 @@ name:
   first: Benjamin
   middle:
   last: Looi
-about: Hi, my name is Benjamin Looi. I'm currently still a student persuing my software engineering degree at UNITEN. During my free time, I love making small projects and explore new technologies. I am not a robot. Please hire me.
-position: Fullstack Developer
+about: "Hi, my name is Benjamin Looi. I'm currently still a student persuing my software engineering degree at UNITEN. During my free time, I love making small projects and explore new technologies. You can checkout some of my projects at https://benjaminlooi.netlify.app/projects. I am not a robot. Please hire me."
+position: Fullstack Developer, Human
 
 birth:
   year: 1997
@@ -21,9 +21,9 @@ experience:
   description: Part time jobs including but not limited to buffet waiter & picking fruits
 
 education:
-- degree: Diploma in Computer Science
+- degree: "Diploma in Computer Science (CGPA: 3.94/4.0)"
   timeperiod: May 2017 - September 2019
-  description: Among the subjects to be undertaken under this diploma are Introduction to Programming, Malaysian Studies, Web Programming, Computer Organization, Multimedia Technologies, Software Engineering, etc.
+  description:  Among the subjects to be undertaken under this diploma are Introduction to Programming, Malaysian Studies, Web Programming, Computer Organization, Multimedia Technologies, Software Engineering, etc.
   website: https://www.uniten.edu.my/
 
 - degree: Bachelor of Computer Science (Software Engineering) (Hons.)
@@ -47,6 +47,10 @@ skills:
 - name: Node.js
   level: 80
 - name: Angular 2
+  level: 40
+- name: PHP
+  level: 40
+- name: MySQL
   level: 40
 knowledge: Able to speak English(9/10), Mandarin(7/10), Bahasa Malaysia(6/10).
 
